@@ -11,7 +11,7 @@ I believe vision encoders should not only understand images, but also **interfac
 - Learning from **synthetic or weakly-labeled data** to improve scalability
 - Open and reproducible vision backbones for multimodal research  
 
-I'm also a contributor to open-source projects like [OpenVision]((https://github.com/UCSC-VLAA/OpenVision)), and I care about making powerful vision models **accessible and extensible** to the research community.
+I'm also a contributor to open-source projects like [OpenVision](https://github.com/UCSC-VLAA/OpenVision), and I care about making powerful vision models **accessible and extensible** to the research community.
 
 📄 Check out my [personal homepage](https://yanqing0327.github.io/Yanqing.github.io/) for papers and updates!
 
