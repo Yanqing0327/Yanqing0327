@@ -3,7 +3,7 @@
 I’m a first-year Ph.D. student at UC Santa Cruz, advised by Prof. Cihang Xie.  
 My research lies at the intersection of **multimodal learning**, **vision-language pretraining**, and **vision foundation models**.
 
-I'm particularly interested in building **vision-centric models** that serve as general-purpose backbones for downstream tasks.  
+I'm particularly interested in building **vision-centric models** that can serve as general-purpose backbones in multimodal learning systems.
 I believe vision encoders should not only understand images, but also **interface naturally with language**, enabling broader reasoning and interaction across modalities.
 
 ### 🔬 Currently exploring:
