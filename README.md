@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Yanqing Liu
 
-I'm a first-year Ph.D. student at UC Santa Cruz, advised by Prof. Cihang Xie.  
 My research lies at the intersection of **multimodal learning**, **vision-language pretraining**, and **vision foundation models**.
 
 I’m particularly interested in developing **vision-centric models** that serve as general-purpose backbones for multimodal systems.  
