@@ -16,5 +16,3 @@ I'm also a contributor to open-source projects like [OpenVision](https://github.
 📄 Check out my [personal homepage](https://yanqing0327.github.io/Yanqing.github.io/) for papers and updates!
 
 ---
-
-![Yanqing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanqing0327&show_icons=true&theme=tokyonight)
